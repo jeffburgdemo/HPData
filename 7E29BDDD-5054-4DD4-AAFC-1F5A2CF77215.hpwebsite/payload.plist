@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isArchived</key>
+	<false/>
+	<key>tags</key>
+	<array>
+		<string>Tag Number 2</string>
+		<string>Tag Number 0</string>
+	</array>
+	<key>webLocation</key>
+	<dict>
+		<key>relative</key>
+		<string>http://iosconf.sg</string>
+	</dict>
+	<key>webTitle</key>
+	<string>iOS Conf 14</string>
+</dict>
+</plist>
